@@ -30,6 +30,9 @@ def grafica_2(frec, r):
     
     frec_corte = x[0]
     
+    print(np.mean(y))
+    print(np.std(y))
+    
     lab_x = "Frecuencia (MHz)"
     lab_y = "Amplitud ($\mu$V)"
 
@@ -110,4 +113,3 @@ r_1 = df2[14,4:]
 
 frec_corte = 0.1
 grafica_4(frec_1, r_1, frec_corte)
-
