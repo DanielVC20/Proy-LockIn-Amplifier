@@ -8,7 +8,7 @@ Project carried out under the guidance of the Quantum Material Group at Universi
 
 Repositorio para el libre acceso del documento y código desarrollado en el proyecto de física experimental con nombre: Caracterización del Lock-In Amplifier HF2LI para la operación de Espectroscopia de Resonancia Ultrasónica en Sólidos
 
-Proyecto realizado bajo guía del grupo de materiales cuánticos en la Universidad de los Andes. Colombia.
+Proyecto realizado bajo guía del grupo de materiales cuánticos en la Universidad de los Andes, Colombia.
 
 <br/>
 
