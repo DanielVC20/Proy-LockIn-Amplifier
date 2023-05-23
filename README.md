@@ -12,4 +12,4 @@ Proyecto realizado bajo guía del grupo de materiales cuánticos en la Universid
 
 <br/>
 
-Page/Pagina: https://quantummaterials.uniandes.edu.co/index.php/teaching/students-projects
+Web page/Pagina web: https://quantummaterials.uniandes.edu.co/index.php/teaching/students-projects
