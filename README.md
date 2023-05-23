@@ -1,6 +1,6 @@
 # Instruments performace for resonant ultrasound spectroscopy measurements
 
-Free access repository for the document and code developed in the experimental physics project named: Characterization of the Lock-In Amplifier HF2LI for operation in Ultrasonic Resonance Spectrometry in Solids.
+Free access repository for the document and code developed in the experimental physics project named: Characterization of the Lock-In Amplifier HF2LI for operation of Ultrasonic Resonance Spectroscopy in Solids.
 
 Project carried out under the guidance of the Quantum Material Group at Universidad de los Andes, Colombia.
 
